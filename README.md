@@ -1,2 +1,2 @@
-# D
-Artifacts of DGMD E-15 course
+# Artifacts of DGMD E-15 course
+
